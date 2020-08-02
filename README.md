@@ -2,7 +2,7 @@
 ## Se debe correr el archivo ChemReac.py:
 
 ```
-python3 ChemReac.p
+python3 ChemReac.py
 ```
 
 #### Es NECESARIO tener la versión 16 de Gaussian
